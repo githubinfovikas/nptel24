@@ -1,0 +1,856 @@
+﻿courseCode,courseName,courseWeek,duration
+noc24-ae02,Aircraft Design,12 weeks,January - June 2023
+noc24-ae03,Computational Science in Engineering,8 Weeks,January - June 2024
+noc24-ae04,Fundamentals of Theoretical and Experimental Aerodynamics,12 Weeks,January - June 2025
+noc24-ae05,Introduction to Aircraft Control System,12 Weeks,January - June 2023
+noc24-ae06,Introduction to Experiments in Flight,4 Weeks,January - June 2023
+noc24-ae07,Lighter than Air Systems,12 Weeks,January - June 2024
+noc24-ae08,Rocket Propulsion,12 Weeks,January - June 2024
+noc24-ae09,Combustion of Solid Fuels and Propellants,8 Weeks,January - June 2024
+noc24-ae10,Introduction to Ancient Indian Technology,8 Weeks,January - June 2024
+noc24-ae11,Aerospace Structural Analysis,8 Weeks,January - June 2024
+noc24-ae12,Fundamentals of Supersonic and Hypersonic Flow,12 Weeks,January - June 2024
+noc24-ag01,Cooling Technology: Why and How utilized in Food Processing and allied Industries,12 Weeks,January - June 2024
+noc24-ag02,Machine Learning For Soil And Crop Management,12 Weeks,January - June 2024
+noc24-ag03,Novel Technologies For Food Processing And Shelf Life Extension,12 Weeks,January - June 2024
+noc24-ag04,Traction Engineering,8 Weeks,January - June 2024
+noc24-ag05,Watershed Hydrology,12 weeks,January - June 2024
+noc24-ag06,Water Quality Management Practices,12 weeks,January - June 2024
+noc24-ag07,Modern Food Packaging Technologies: Regulatory Aspects and Global Trends,12 weeks,January - June 2024
+noc24-ag08,Basics of Crop Breeding and Plant Biotechnology,12 Weeks,January - June 2024
+noc24-ar01,Engineering/Architectural Graphics - part I - Orthographic projection,8 Weeks,January - June 2024
+noc24-ar02,Engineering/Architectural Graphics – part II – Isometric and Axonometric Drawings,4 Weeks,January - June 2023
+noc24-ar03,Environmental Impact Assessment,12 Weeks,January - June 2024
+noc24-ar04,"Structure, Form, and Architecture: The Synergy",8 Weeks,January - June 2024
+noc24-ar05,User Interface Design,4 Weeks,January - June 2024
+noc24-ar06,Introduction to History of Architecture in India,4 Weeks,January - June 2024
+noc24-ar07,Research Methodology for Planning and Architectural Studies,12 Weeks,January - June 2024
+noc24-ar08,Urban Services Planning,12 Weeks,January - June 2024
+noc24-bt01,Maternal Infant Young Child Nutrition,12 Weeks,January - June 2023
+noc24-bt02,Maternal Infant Young Child Nutrition (Hindi),12 Weeks,January - June 2023
+noc24-bt03,Computational Genomics,12 Weeks,January - June 2023
+noc24-bt04,RNA Biology,12 Weeks,January - June 2023
+noc24-bt05,Human Physiology,12 Weeks,January - June 2023
+noc24-bt06,Biomechanics,12 Weeks,January - June 2023
+noc24-bt07,Molecular Biology,12 Weeks,January - June 2023
+noc24-bt08,Pharmacognosy & Metabolic Engineering,12 weeks,January - June 2023
+noc24-bt09,Plant Developmental Biology,4 Weeks,January - June 2023
+noc24-bt10,Structural Biology,12 Weeks,January - June 2023
+noc24-bt11,Data Analysis For Biologists,8 Weeks,January - June 2023
+noc24-bt12,Biochemistry - IITM,12 Weeks,January - June 2023
+noc24-bt13,Bioelectrochemistry,4 weeks,January - June 2023
+noc24-bt14,Bioengineering: An Interface with Biology and Medicine,8 Weeks,January - June 2023
+noc24-bt15,BioInformatics: Algorithms and Applications,12 Weeks,January - June 2023
+noc24-bt16,Biointerface Engineering,8 Weeks,January - June 2023
+noc24-bt17,Bioreactor Design and Analysis,8 Weeks,January - June 2023
+noc24-bt18,"Cell Biology: Cellular organization, division and processes",8 Weeks,January - June 2023
+noc24-bt19,Computational Systems Biology,12 Weeks,January - June 2023
+noc24-bt20,Conservation Economics,12 Weeks,January - June 2023
+noc24-bt21,Demystifying The Brain,4 Weeks,January - June 2023
+noc24-bt22,Enzyme Sciences and Technology,12 Weeks,January - June 2023
+noc24-bt23,Forests and their Management,12 Weeks,January - June 2023
+noc24-bt24,Host-Pathogen Interaction (Immunology),12 Weeks,January - June 2023
+noc24-bt25,Interactomics : Basics & Applications,12 Weeks,January - June 2023
+noc24-bt26,Introductory Mathematical Methods for Biologists,8 Weeks,January - June 2023
+noc24-bt27,Material and Energy Balances,12 Weeks,January - June 2023
+noc24-bt28,Medical Biomaterials,8 Weeks,January - June 2023
+noc24-bt29,Metabolic Engineering,8 Weeks,January - June 2023
+noc24-bt30,Nanotechnology In Agriculture,8 Weeks,January - June 2023
+noc24-bt31,Thermodynamics for Biological Systems : Classical and Statistical Aspects,12 Weeks,January - June 2023
+noc24-bt32,Optical Spectroscopy and Microscopy : Fundamentals of optical measurements and instrumentation,12 Weeks,January - June 2023
+noc24-bt33,Biostatistics and Design of experiments,8 Weeks,January - June 2023
+noc24-bt34,Introduction To Professional Scientific Communication,4 Weeks,January - June 2023
+noc24-bt36,I Think Biology,12 Weeks,January - June 2023
+noc24-bt37,"Microsensors, Implantable Devices and Rodent Surgeries for Biomedical Applications",12 Weeks,January - June 2023
+noc24-bt38,Classics in Neuroscience,8 Weeks,January - June 2023
+noc24-ce01,Advanced Foundation Engineering,12 Weeks,January - June 2023
+noc24-ce02,Advanced Soil Mechanics,12 Weeks,January - June 2023
+noc24-ce03,Air pollution and Control,12 Weeks,January - June 2023
+noc24-ce04,Applied Environmental Microbiology,12 Weeks,January - June 2023
+noc24-ce05,Applied Seismology for Engineers,12 Weeks,January - June 2023
+noc24-ce06,Basic construction materials,12 Weeks,January - June 2023
+noc24-ce07,Construction Methods And Equipment Management,8 Weeks,January - June 2023
+noc24-ce08,Development and Applications of Special Concretes,8 Weeks,January - June 2023
+noc24-ce09,Earthquake Resistant Design of Foundations,8 Weeks,January - June 2023
+noc24-ce10,Engineering Hydrology,12 Weeks,January - June 2023
+noc24-ce11,Environmental Remediation of Contaminated Sites,12 Weeks,January - June 2023
+noc24-ce12,Expansive Soil,8 Weeks,January - June 2023
+noc24-ce13,Finite Element Method,12 Weeks,January - June 2023
+noc24-ce14,Geographic Information Systems,12 Weeks,January - June 2023
+noc24-ce15,Geology and Soil Mechanics,12 Weeks,January - June 2023
+noc24-ce16,Geomorphology,12 Weeks,January - June 2023
+noc24-ce17,Geosynthetics And Reinforced Soil Structures,12 Weeks,January - June 2023
+noc24-ce18,Geotechnical Engineering - 1,12 Weeks,January - June 2023
+noc24-ce19,Geotechnical Engineering II Foundation Engineering,12 Weeks,January - June 2023
+noc24-ce20,Hydraulic Engineering,12 Weeks,January - June 2023
+noc24-ce21,Introduction to Accounting and Finance for Civil Engineers,8 Weeks,January - June 2023
+noc24-ce22,Maintenance and Repair of Concrete Structures,12 Weeks,January - June 2023
+noc24-ce23,Mechanical Characterization of Bituminous Materials,12 Weeks,January - June 2023
+noc24-ce24,Microwave Remote Sensing in Hydrology,12 Weeks,January - June 2023
+noc24-ce25,Plastic Waste Management,8 Weeks,January - June 2023
+noc24-ce26,Remote Sensing Essentials,12 Weeks,January - June 2023
+noc24-ce27,Retrofitting and Rehabilitation of Civil Infrastructure,12 Weeks,January - June 2023
+noc24-ce28,Rock Engineering,12 Weeks,January - June 2023
+noc24-ce29,Soil Dynamics,12 Weeks,January - June 2023
+noc24-ce30,Soil Structure Interaction,12 Weeks,January - June 2023
+noc24-ce31,Structural Analysis-I,12 Weeks,January - June 2023
+noc24-ce32,Structural Dynamics,12 Weeks,January - June 2023
+noc24-ce33,Structural Vibration,12 Weeks,January - June 2023
+noc24-ce34,Surface Water Hydrology,12 Weeks,January - June 2023
+noc24-ce35,Traffic Engineering,12 Weeks,January - June 2023
+noc24-ce36,Unsaturated Soil Mechanics,12 Weeks,January - June 2023
+noc24-ce37,Urban Transportation Systems Planning,12 Weeks,January - June 2023
+noc24-ce38,Vibration of Continuous Systems,12 Weeks,January - June 2023
+noc24-ce39,Water and waste water treatment,12 Weeks,January - June 2023
+noc24-ce40,Water Supply Engineering,12 Weeks,January - June 2023
+noc24-ce41,निर्माण प्रबंधन (Construction Management) के सिद्धांत[Nirman prabandhan (Construction Management) ke Siddhant],8 Weeks,January - June 2023
+noc24-ce42,Analysis and Design of Bituminous Pavements,12 Weeks,January - June 2023
+noc24-ce43,Introduction to Lean Construction (Module 1 - Lean Basics),4 Weeks,January - June 2023
+noc24-ce44,Modern Construction Materials,12 Weeks,January - June 2023
+noc24-ce45,Introduction to Civil Engineering Profession,8 Weeks,January - June 2023
+noc24-ce46,Concrete Technology,12 Weeks,January - June 2023
+noc24-ce47,"Energy Efficiency, Acoustics and Daylighting in Building",12 Weeks,January - June 2023
+noc24-ce48,Remote Sensing and GIS for rural development,12 Weeks,January - June 2023
+noc24-ce49,The evolution of the Earth and life,12 Weeks,January - June 2023
+noc24-ce50,Geomorphic Processes: Landforms And Landscapes,8 Weeks,January - June 2023
+noc24-ce51,Natural Hazards,8 Weeks,January - June 2023
+noc24-ce52,Laboratory Practices in Earth Sciences: Landscape Mapping,8 Weeks,January - June 2023
+noc24-ce53,Industrial Wastewater Treatment,12 weeks,January - June 2023
+noc24-ce54,Advanced Topics in Science and Technology of Concrete,4 Weeks,January - June 2023
+noc24-ch01,Electrochemical Technology in Pollution Control,8 Weeks,January - June 2023
+noc24-ch02,Advanced Thermodynamics and Molecular Simulations,12 Weeks,January - June 2023
+noc24-ch03,Applied Time-Series Analysis,12 Weeks,January - June 2023
+noc24-ch04,Aspen Plus® Simulation Software - A Basic Course For Beginners,12 Weeks,January - June 2023
+noc24-ch05,Basic Principles And Calculations In Chemical Engineering,12 Weeks,January - June 2023
+noc24-ch06,Biological process design for wastewater treatment,8 Weeks,January - June 2023
+noc24-ch07,Biomass Conversion And Biorefinery,12 Weeks,January - June 2023
+noc24-ch08,Chemical Engineering Fluid Dynamics and Heat Transfer,12 Weeks,January - June 2023
+noc24-ch09,Chemical Process Technology,12 Weeks,January - June 2023
+noc24-ch10,Chemical Process Utilities,12 Weeks,January - June 2023
+noc24-ch11,Chemical Reaction Engineering II,12 Weeks,January - June 2023
+noc24-ch12,Computational Fluid Dynamics,12 Weeks,January - June 2023
+noc24-ch13,Computational process design,8 Weeks,January - June 2023
+noc24-ch14,Computer Aided Applied Single Objective Optimization,12 Weeks,January - June 2023
+noc24-ch15,Environmental Quality Monitoring & Analysis,12 Weeks,January - June 2023
+noc24-ch16,Fluid Flow Operations,12 Weeks,January - June 2023
+noc24-ch17,Heat Transfer,12 Weeks,January - June 2023
+noc24-ch18,Membrane Technology,12 Weeks,January - June 2023
+noc24-ch19,Momentum Transfer in Fluids,12 Weeks,January - June 2023
+noc24-ch20,Multiphase Flows,8 Weeks,January - June 2023
+noc24-ch21,Multiphase Microfluidics,8 Weeks,January - June 2023
+noc24-ch22,Physical And Electrochemical Characterizations In Chemical Engineering,8 Weeks,January - June 2023
+noc24-ch23,Physico-chemical processes for wastewater treatment,12 Weeks,January - June 2023
+noc24-ch24,Polymer Reaction Engineering,12 Weeks,January - June 2023
+noc24-ch25,Process Equipment Design,12 Weeks,January - June 2023
+noc24-ch26,"Renewable Energy Engineering: Solar, Wind And Biomass Energy Systems",12 weeks,January - June 2023
+noc24-ch27,Thermodynamics Of Fluid Phase Equilibria,8 Weeks,January - June 2023
+noc24-ch28,Unit operations of particulate matter,4 Weeks,January - June 2023
+noc24-ch29,Waste to Energy Conversion,8 Weeks,January - June 2023
+noc24-ch30,Advanced Thermodynamics,12 weeks,January - June 2023
+noc24-ch31,Chemical Engineering Thermodynamics,12 Weeks,January - June 2023
+noc24-ch32,Modeling Stochastic phenomena for Engineering applications: Part-1,12 Weeks,January - June 2023
+noc24-ch33,Inorganic Chemical Technology,12 Weeks,January - June 2023
+noc24-ch34,Applied Statistical Thermodynamics,12 Weeks,January - June 2023
+noc24-ch35,"Characterization of Polymers, Elastomers and Composites",12 Weeks,January - June 2023
+noc24-ch36,Matlab Programming for Numerical Computation,12 Weeks,January - June 2023
+noc24-cs01,Foundations of Cryptography,12 Weeks,January - June 2023
+noc24-cs02,Introduction to programming in C,8 Weeks,January - June 2023
+noc24-cs03,Linear programming and its applications to computer science,8 Weeks,January - June 2023
+noc24-cs04,Privacy and Security in Online Social Media,12 weeks,January - June 2023
+noc24-cs05,Basics of Computational Complexity,12 Weeks,January - June 2023
+noc24-cs06,Advanced Computer Architecture,12 Weeks,January - June 2023
+noc24-cs07,Secure Computation: Part I,12 Weeks,January - June 2023
+noc24-cs08,An Introduction to Artificial Intelligence,12 Weeks,January - June 2023
+noc24-cs09,Cloud Computing and Distributed Systems,8 Weeks,January - June 2023
+noc24-cs10,Switching Circuits and Logic Design,12 Weeks,January - June 2023
+noc24-cs11,Advanced Computer Networks,12 Weeks,January - June 2023
+noc24-cs12,Affective Computing,12 Weeks,January - June 2023
+noc24-cs13,AI:Constraint Satisfaction,8 Weeks,January - June 2023
+noc24-cs14,Artificial Intelligence: Knowledge Representation And Reasoning,12 Weeks,January - June 2023
+noc24-cs15,Blockchain and its Applications,12 Weeks,January - June 2023
+noc24-cs16,Circuit Complexity Theory,12 Weeks,January - June 2023
+noc24-cs17,Cloud Computing,12 Weeks,January - June 2023
+noc24-cs18,Compiler Design,12 Weeks,January - June 2023
+noc24-cs19,Computer Networks And Internet Protocol,12 Weeks,January - June 2023
+noc24-cs20,Data Analytics with Python,12 Weeks,January - June 2023
+noc24-cs21,Data Base Management System,8 Weeks,January - June 2023
+noc24-cs22,Data Mining,8 Weeks,January - June 2023
+noc24-cs23,Design and analysis of algorithms,8 Weeks,January - June 2023
+noc24-cs24,Embedded System Design with ARM,8 Weeks,January - June 2023
+noc24-cs25,Embedded Systems Design,12 Weeks,January - June 2023
+noc24-cs26,Foundation of Cloud IoT Edge ML,8 Weeks,January - June 2023
+noc24-cs27,Foundations of Cyber Physical Systems,12 Weeks,January - June 2023
+noc24-cs28,Fundamental Algorithms: Design And Analysis,4 Weeks,January - June 2023
+noc24-cs29,Getting Started with Competitive Programming,12 Weeks,January - June 2023
+noc24-cs30,GPU Architectures And Programming,12 Weeks,January - June 2023
+noc24-cs31,Information Security - 5 - Secure Systems Engineering,8 Weeks,January - June 2023
+noc24-cs32,"Introduction to Automata, Languages and Computation",12 Weeks,January - June 2023
+noc24-cs33,Introduction to Embedded System Design,12 Weeks,January - June 2023
+noc24-cs34,Introduction To Industry 4.0 And Industrial Internet Of Things,12 Weeks,January - June 2023
+noc24-cs35,Introduction To Internet Of Things,12 Weeks,January - June 2023
+noc24-cs36,Introduction to Machine Learning (Tamil),8 Weeks,January - June 2023
+noc24-cs37,Introduction To Soft Computing,8 Weeks,January - June 2023
+noc24-cs38,Machine Learning for Engineering and science applications,12 Weeks,January - June 2023
+noc24-cs39,Natural Language Processing,12 Weeks,January - June 2023
+noc24-cs40,"Object Oriented System Development Using UML, Java And Patterns",12 Weeks,January - June 2023
+noc24-cs41,Optimisation for Machine Learning: Theory and Implementation (Hindi),8 Weeks,January - June 2023
+noc24-cs42,Problem Solving Through Programming In C,12 Weeks,January - June 2023
+noc24-cs43,Programming In Java,12 Weeks,January - June 2023
+noc24-cs44,Programming in Modern C++,12 Weeks,January - June 2023
+noc24-cs45,"Programming, Data Structures And Algorithms Using Python",8 Weeks,January - June 2023
+noc24-cs46,Selected Topics in Algorithms,12 Weeks,January - June 2023
+noc24-cs47,Software Testing,4 Weeks,January - June 2023
+noc24-cs48,Systems and Usable Security,4 Weeks,January - June 2023
+noc24-cs49,Theory of Computation,12 Weeks,January - June 2023
+noc24-cs50,User-centric Computing For Human-Computer Interaction,8 Weeks,January - June 2023
+noc24-cs51,Introduction to Machine Learning,12 Weeks,January - June 2023
+noc24-cs52,Reinforcement Learning,12 Weeks,January - June 2023
+noc24-cs53,Data Science for Engineers,8 Weeks,January - June 2023
+noc24-cs54,Python for Data Science,4 Weeks,January - June 2023
+noc24-cs55,Introduction to Database Systems,12 Weeks,January - June 2023
+noc24-cs56,Social Networks,12 Weeks,January - June 2023
+noc24-cs57,The Joy of Computing using Python,12 Weeks,January - June 2023
+noc24-cs58,Discrete Mathematics,12 Weeks,January - June 2023
+noc24-cs59,Deep Learning - IIT Ropar,12 Weeks,January - June 2023
+noc24-cs60,"Machine Learning, ML",8 Weeks,January - June 2023
+noc24-cs61,Digital Design with Verilog,12 Weeks,January - June 2023
+noc24-cs62,Probability for Computer Science,8 Weeks,January - June 2023
+noc24-cs63,Parallel Computer Architecture,12 Weeks,January - June 2023
+noc24-cs64,Games and Information,12 weeks,January - June 2023
+noc24-cs65,Business Intelligence & Analytics,12 Weeks,January - June 2023
+noc24-cs66,Edge Computing,8 Weeks,January - June 2023
+noc24-cy01,Metallocene and Metal-carbene based Organometallic Compounds as Industrially Important Advanced Polyolefin Catalysts,8 Weeks,January - June 2023
+noc24-cy02,Advanced Chemical Thermodynamics and Kinetics,12 Weeks,January - June 2023
+noc24-cy03,Advanced Transition Metal Organometallic Chemistry,12 Weeks,January - June 2023
+noc24-cy04,Basic thermodynamics: Classical and Statistical Approaches,12 Weeks,January - June 2023
+noc24-cy05,Basics in Inorganic Chemistry,4 Weeks,January - June 2023
+noc24-cy06,Biochemistry,12 Weeks,January - June 2023
+noc24-cy07,Chemistry Of Main Group Elements,12 Weeks,January - June 2023
+noc24-cy08,Co-Ordination Chemistry (Chemistry Of Transition Elements),12 Weeks,January - June 2023
+noc24-cy09,Electrochemical impedance Spectroscopy,12 Weeks,January - June 2023
+noc24-cy10,Elementary Electrochemistry,8 Weeks,January - June 2023
+noc24-cy11,Essentials Of Biomolecules : Nucleic Acids And Peptides,12 Weeks,January - June 2023
+noc24-cy12,"Essentials of Oxidation, Reduction and C-C Bond Formation. Application in Organic Synthesis",12 Weeks,January - June 2023
+noc24-cy13,Experimental Biochemistry,12 Weeks,January - June 2023
+noc24-cy14,Fundamentals of Spectroscopy,12 Weeks,January - June 2023
+noc24-cy15,Industrial Inorganic Chemistry,12 Weeks,January - June 2023
+noc24-cy16,Interpretative molecular spectroscopy,12 weeks,January - June 2023
+noc24-cy17,Medicinal Chemistry,12 Weeks,January - June 2023
+noc24-cy18,Molecular Spectroscopy: A Physical Chemist’s perspective,12 Weeks,January - June 2023
+noc24-cy19,Nuclear and Radiochemistry,12 Weeks,January - June 2023
+noc24-cy20,One and Two dimensional NMR Spectroscopy: Concepts and Spectral Analysis,12 Weeks,January - June 2023
+noc24-cy21,Organic Chemistry I (Tamil),4 Weeks,January - June 2023
+noc24-cy22,Organometallic Chemistry,4 Weeks,January - June 2023
+noc24-cy23,Pericyclic Reactions and Organic Photochemistry,8 Weeks,January - June 2023
+noc24-cy24,Symmetry and Group Theory,12 Weeks,January - June 2023
+noc24-cy25,"Symmetry, Stereochemistry and Applications",12 Weeks,January - June 2023
+noc24-cy26,Transition Metal Organometallics in Catalysis and Biology,12 Weeks,January - June 2023
+noc24-cy27,Ultrafast laser spectroscopy,12 Weeks,January - June 2023
+noc24-cy28,Bioinorganic Chemistry,4 Weeks,January - June 2023
+noc24-cy29,Supramolecular Chemistry-I,8 Weeks,January - June 2023
+noc24-cy30,Elementary Thermodynamics for All,12 Weeks,January - June 2023
+noc24-cy31,Thermodynamics: Classical To Statistical,12 Weeks,January - June 2023
+noc24-cy32,Time Dependent Quantum Chemistry,12 Weeks,January - June 2023
+noc24-cy33,Many body methods in quantum chemistry,12 Weeks,January - June 2023
+noc24-de01,Strategies for Sustainable Design,12 Weeks,January - June 2023
+noc24-de03,Fundamentals of Automotive Systems,12 Weeks,January - June 2023
+noc24-de04,Understanding Design,4 Weeks,January - June 2023
+noc24-de05,Understanding Ethnography,8 Weeks,January - June 2023
+noc24-de06,Understanding Incubation and Entrepreneurship,12 Weeks,January - June 2023
+noc24-de07,Usability Engineering,12 Weeks,January - June 2023
+noc24-de08,"Design, Technology and Innovation",8 Weeks,January - June 2023
+noc24-de09,Innovation by Design,4 Weeks,January - June 2023
+noc24-ec01,Foundations of Accounting & Finance,12 Weeks,January - June 2023
+noc24-ec02,Applied Econometrics,12 Weeks,January - June 2023
+noc24-ec03,Applied Statistics and Econometrics,12 Weeks,January - June 2023
+noc24-ec04,Indian Economy: Some Contemporary Perspectives,8 Weeks,January - June 2023
+noc24-ec05,Microfoundations Of Macroeconomics,8 Weeks,January - June 2023
+noc24-ec06,Introduction to Econometrics,12 Weeks,January - June 2023
+noc24-ec07,Health Economics,12 Weeks,January - June 2023
+noc24-ec08,Predictive Analytics - Regression and Classification,12 Weeks,January - June 2023
+noc24-ee01,Neural Science for Engineers,12 Weeks,January - June 2023
+noc24-ee02,Fundamentals of semiconductor devices,12 Weeks,January - June 2023
+noc24-ee03,Photonic integrated circuit,12 Weeks,January - June 2023
+noc24-ee04,Deep Learning,12 Weeks,January - June 2023
+noc24-ee05,Electronics Enclosures Thermal issues,8 Weeks,January - June 2023
+noc24-ee06,Electronics equipment integration and Prototype building,8 Weeks,January - June 2023
+noc24-ee07,Fundamental of Power Electronics,12 Weeks,January - June 2023
+noc24-ee08,"Integrated Circuits, Mosfets, OP-Amps and their Applications",12 Weeks,January - June 2023
+noc24-ee09,A brief introduction of Micro - Sensors,4 Weeks,January - June 2023
+noc24-ee10,Advanced topics in Wireless Communication (Hindi),8 Weeks,January - June 2023
+noc24-ee11,Analog Circuits,8 Weeks,January - June 2023
+noc24-ee12,Analog Electronic Circuits - IITM,12 Weeks,January - June 2023
+noc24-ee13,Analog Ic Design,12 Weeks,January - June 2023
+noc24-ee14,Circuit Analysis for Analog Designers,12 Weeks,January - June 2023
+noc24-ee15,Control engineering,12 Weeks,January - June 2023
+noc24-ee16,Digital Signal Processing and its Applications,12 Weeks,January - June 2023
+noc24-ee17,Digital System Design,12 Weeks,January - June 2023
+noc24-ee18,Foundations of Wavelets and Multirate Digital Signal Processing,4 Weeks,January - June 2023
+noc24-ee19,Linear Dynamical Systems,8 Weeks,January - June 2023
+noc24-ee20,Microwave Integrated Circuits,8 Weeks,January - June 2023
+noc24-ee21,Modern Computer Vision,12 Weeks,January - June 2023
+noc24-ee22,Multirate DSP,12 Weeks,January - June 2023
+noc24-ee23,Optical Fiber Sensors,12 Weeks,January - June 2023
+noc24-ee24,Power Management Integrated Circuits,12 Weeks,January - June 2023
+noc24-ee25,Principles of Digital Communication,12 Weeks,January - June 2023
+noc24-ee26,RF and Microwave Networks,12 Weeks,January - June 2023
+noc24-ee27,Semiconductor device modeling and Simulation,12 Weeks,January - June 2023
+noc24-ee28,Signals and Systems,12 Weeks,January - June 2023
+noc24-ee29,CMOS Digital VLSI Design,8 Weeks,January - June 2023
+noc24-ee30,EV - Vehicle Dynamics and Electric Motor Drives,4 Weeks + 4 Weeks (New),January - June 2023
+noc24-ee31,Electromagnetic Waves in Guided and Wireless Media,8 Weeks,January - June 2023
+noc24-ee32,"Fuzzy Sets, Logic and Systems & Applications",12 weeks,January - June 2023
+noc24-ee33,Optimal control,8 Weeks,January - June 2023
+noc24-ee34,Power Quality Improvement Technique,8 Weeks,January - June 2023
+noc24-ee35,Principles of Communication Systems - I,12 Weeks,January - June 2023
+noc24-ee36,Principles of Signals and Systems,12 Weeks,January - June 2023
+noc24-ee37,Smart Grid: Basics to Advanced Technologies,12 Weeks,January - June 2023
+noc24-ee38,Computer Vision And Image Processing - Fundamentals And Applications,12 Weeks,January - June 2023
+noc24-ee39,Design Of Power Electronic Converters,8 Weeks,January - June 2023
+noc24-ee40,Microprocessors And Interfacing,12 Weeks,January - June 2023
+noc24-ee41,Operation And Planning Of Power Distribution Systems,12 Weeks,January - June 2023
+noc24-ee42,Transmission lines and electromagnetic waves,12 Weeks,January - June 2023
+noc24-ee43,Digital IC Design,12 Weeks,January - June 2023
+noc24-ee44,Design and Analysis of VLSI Subsystems,12 Weeks,January - June 2023
+noc24-ee45,Sensors and Actuators,12 Weeks,January - June 2023
+noc24-ee46,Microprocessors and Microcontrollers,12 Weeks,January - June 2023
+noc24-ee47,An Introduction to Information Theory,8 Weeks,January - June 2023
+noc24-ee48,Applied Linear Algebra,12 weeks,January - June 2023
+noc24-ee49,Biomedical Signal Processing,12 Weeks,January - June 2023
+noc24-ee50,Computer-Aided Design of Electrical Machines,12 weeks,January - June 2023
+noc24-ee51,Digital Communication using GNU Radio,12 Weeks,January - June 2023
+noc24-ee52,Digital Electronic Circuits,12 Weeks,January - June 2023
+noc24-ee53,Electrical Machines - II,12 Weeks,January - June 2023
+noc24-ee54,Evolution Of Air Interface Towards 5G,8 Weeks,January - June 2023
+noc24-ee55,Facts Devices,8 Weeks,January - June 2023
+noc24-ee56,Industrial Automation And Control,12 Weeks,January - June 2023
+noc24-ee57,Medical Image Analysis,4 Weeks,January - June 2023
+noc24-ee58,Network Analysis,12 Weeks,January - June 2023
+noc24-ee59,Optical Wireless Communications for Beyond 5G Networks and IoT,12 Weeks,January - June 2023
+noc24-ee60,Power Quality,12 Weeks,January - June 2023
+noc24-ee61,Power System Engineering,12 Weeks,January - June 2023
+noc24-ee62,State space Approach to Control System Analysis and Design,12 Weeks,January - June 2023
+noc24-ee63,VLSI Signal Processing,8 Weeks,January - June 2023
+noc24-ee64,Digital Protection of Power System,8 Weeks,January - June 2023
+noc24-ee65,Control System Design,12 Weeks,January - June 2023
+noc24-ee66,Nonlinear and Adaptive Control,4 Weeks,January - June 2023
+noc24-ee67,"EMI /EMC and Signal Integrity: Principles, Techniques and Applications",12 Weeks,January - June 2023
+noc24-ee68,"Embedded Sensing, Actuation and Interfacing Systems",12 Weeks,January - June 2023
+noc24-ee69,Basics of Semiconductor Microwave Devices,12 Weeks,January - June 2023
+noc24-ee70,Physics of Nanoscale Devices,12 Weeks,January - June 2023
+noc24-ee71,Communication Networks,12 Weeks,January - June 2023
+noc24-ee72,Fundamentals Of MIMO Wireless Communication,8 Weeks,January - June 2023
+noc24-ee73,Integrated Circuits and Applications,12 Weeks,January - June 2023
+noc24-ee74,Millimeter Wave Technology,8 Weeks,January - June 2023
+noc24-ee75,RF Transceiver Design,12 Weeks,January - June 2023
+noc24-ee76,Signal Processing Techniques and its Applications,12 Weeks,January - June 2023
+noc24-ee77,VLSI Physical Design with Timing Analysis,12 Weeks,January - June 2023
+noc24-ge01,Multi-Criteria Decision Making and Applications,12 Weeks,January - June 2023
+noc24-ge02,An Introduction to Urban Ecological Heritage: Theories and Applications,4 weeks,January - June 2023
+noc24-ge03,Vulnerability Studies: An Introduction,8 Weeks,January - June 2023
+noc24-ge04,Pulmonary Function tests - Interpretation and application in clinical practice,4 Weeks,January - June 2023
+noc24-ge05,Basic Certificate in Palliative Care,12 Weeks,January - June 2023
+noc24-ge06,Fundamental Of Fluid Mechanics For Chemical And Biomedical Engineers,12 Weeks,January - June 2023
+noc24-ge07,NBA Accreditation and Teaching and learning in Engineering (NATE),12 Weeks,January - June 2023
+noc24-ge08,Teaching And Learning in Engineering (TALE),4 Weeks,January - June 2023
+noc24-ge09,Basic Course in Ornithology,12 Weeks,January - June 2023
+noc24-ge10,Basics of Mental Health & Clinical Psychiatry,8 Weeks,January - June 2023
+noc24-ge11,Biophotonics,12 Weeks,January - June 2023
+noc24-ge12,Designing Learner-Centric MOOCs,4 Weeks + 4 Weeks (New),January - June 2023
+noc24-ge13,Effective Engineering Teaching In Practice,4 Weeks,January - June 2023
+noc24-ge14,Engineering Statistics,12 Weeks,January - June 2023
+noc24-ge15,Entrepreneurship Essentials,12 Weeks,January - June 2023
+noc24-ge16,Foundation Certificate In Palliative Care,12 Weeks,January - June 2023
+noc24-ge17,Fuzzy Logic And Neural Networks,8 Weeks,January - June 2023
+noc24-ge18,Groundwater hydrology and management,12 Weeks,January - June 2023
+noc24-ge19,Introduction To Environmental Engineering And Science - Fundamental And Sustainability Concepts,12 Weeks,January - June 2023
+noc24-ge20,Introduction to Reliability Engineering,8 Weeks,January - June 2023
+noc24-ge21,Research Methodology,8 Weeks,January - June 2023
+noc24-ge22,Management of Medical Emergencies in Dental Practice,8 Weeks,January - June 2023
+noc24-ge23,Nanobio Technology Enabled Point-of-Care Devices,8 Weeks,January - June 2023
+noc24-ge24,Non-conventional energy Resources,12 Weeks,January - June 2023
+noc24-ge25,One Health,12 Weeks,January - June 2023
+noc24-ge26,Oral Biology,8 Weeks,January - June 2023
+noc24-ge27,Outcome Based Pedagogic Principles For Effective Teaching,4 Weeks,January - June 2023
+noc24-ge28,Research Methodology in Natural Sciences,12 Weeks,January - June 2023
+noc24-ge29,Roadmap for patent creation,8 Weeks,January - June 2023
+noc24-ge30,Rural Water Resources Management,12 Weeks,January - June 2023
+noc24-ge31,Experimental Robotics,4 weeks,January - June 2023
+noc24-ge33,Medical Law,8 Weeks,January - June 2023
+noc24-ge34,"An Overview on Maternal Health Antenatal, Intranatal and Postnatal Care",12 Weeks,January - June 2023
+noc24-ge35,Recommender Systems,8 Weeks,January - June 2023
+noc24-ge36,Comprehensive Molecular Diagnostics and Advanced Gene Expression Analysis,12 Weeks,January - June 2023
+noc24-hs01,Science Communication: Research Productivity and Data Analytics using Open Source Software,12 Weeks,January - June 2023
+noc24-hs02,Petroleum Economics and Management,12 Weeks,January - June 2023
+noc24-hs03,Advanced Level of Spoken Sanskrit,8 Weeks,January - June 2023
+noc24-hs04,Education for Sustainable Development,12 Weeks,January - June 2023
+noc24-hs05,Elements of Literature and Creative Communication,12 Weeks,January - June 2023
+noc24-hs06,Emotional Intelligence,8 Weeks,January - June 2023
+noc24-hs07,Introduction On Intellectual Property To Engineers And Technologists,8 Weeks,January - June 2023
+noc24-hs08,Legal Compliance For Incorporating Startup,4 Weeks,January - June 2023
+noc24-hs09,Speaking Effectively,8 Weeks,January - June 2023
+noc24-hs10,Strategic Performance Management,8 Weeks,January - June 2023
+noc24-hs11,Technology Transfer Through Joint Venture,4 Weeks,January - June 2023
+noc24-hs12,Training and Development,12 Weeks,January - June 2023
+noc24-hs13,Development of Sociology in India,4 Weeks,January - June 2023
+noc24-hs14,Great Experiments In Psychology,4 Weeks,January - June 2023
+noc24-hs15,Soft Skill Development,8 Weeks,January - June 2023
+noc24-hs16,The Science of Happiness and Wellbeing,8 Weeks,January - June 2023
+noc24-hs17,An Introduction to Microeconomics,12 Weeks,January - June 2023
+noc24-hs18,Appreciating Hindustani Music,8 Weeks,January - June 2023
+noc24-hs19,Basics of language Science,12 Weeks,January - June 2023
+noc24-hs20,Bilingualism: A cognitive and psycholinguistic perspective,8 Weeks,January - June 2023
+noc24-hs21,Contextualizing Gender,12 Weeks,January - June 2023
+noc24-hs22,Economic Growth And Development,8 Weeks,January - June 2023
+noc24-hs23,Effective Writing,4 Weeks,January - June 2023
+noc24-hs24,"Energy Resources, Economics and Environment",12 Weeks,January - June 2023
+noc24-hs25,English Literature of the Romantic Period 1798-1832,8 Weeks,January - June 2023
+noc24-hs26,Enhancing Soft Skills and Personality,8 Weeks,January - June 2023
+noc24-hs27,Exploring Survey Data on Health Care,8 Weeks,January - June 2023
+noc24-hs28,Feminism : Concepts and Theories,12 Weeks,January - June 2023
+noc24-hs29,German - I,12 Weeks,January - June 2023
+noc24-hs30,German - II,12 Weeks,January - June 2023
+noc24-hs31,German - III,12 Weeks,January - June 2023
+noc24-hs32,Globalization: Theoretical Perspectives,12 Weeks,January - June 2023
+noc24-hs33,Group Dynamics,8 Weeks,January - June 2023
+noc24-hs34,Health Research Fundamentals,8 Weeks,January - June 2023
+noc24-hs35,Human Behaviour,8 Weeks,January - June 2023
+noc24-hs36,Indian Feminisms: Concepts and Issues,4 Weeks,January - June 2023
+noc24-hs37,Indian Poetry in English,8 Weeks,January - June 2023
+noc24-hs38,Intellectual Property,12 Weeks,January - June 2023
+noc24-hs39,Introduction To Cognitive Psychology,12 Weeks,January - June 2023
+noc24-hs40,Introduction to Cultural Studies,12 Weeks,January - June 2023
+noc24-hs41,Introduction to Environmental Economics,12 Weeks,January - June 2023
+noc24-hs42,Introduction To Modern Indian Drama,8 Weeks,January - June 2023
+noc24-hs43,Introduction To Modern Indian Political Thought,12 Weeks,January - June 2023
+noc24-hs44,Introduction to Pāṇinian grammar,12 Weeks,January - June 2023
+noc24-hs45,Introduction To Political Theory,12 Weeks,January - June 2023
+noc24-hs46,Introduction to Psychology,8 Weeks,January - June 2023
+noc24-hs47,Introduction to World Literature,12 Weeks,January - June 2023
+noc24-hs48,Japani Bhasha - Saral swaroop,12 Weeks,January - June 2023
+noc24-hs49,Language and Mind,8 Weeks,January - June 2023
+noc24-hs50,"Language, Culture And Cognition: An Introduction",8 Weeks,January - June 2023
+noc24-hs51,Literary Criticism (From Plato to Leavis),12 Weeks,January - June 2023
+noc24-hs52,Literature and Coping Skills,8 Weeks,January - June 2023
+noc24-hs53,Literature and Life,12 Weeks,January - June 2023
+noc24-hs55,Modern Indian Writing in Translation,12 Weeks,January - June 2023
+noc24-hs56,Narrative Mode and Fiction,12 Weeks,January - June 2023
+noc24-hs58,Online Communication in the Digital Age,12 Weeks,January - June 2023
+noc24-hs59,Patent Drafting for Beginners,4 Weeks,January - June 2023
+noc24-hs60,Patent Law for Engineers and Scientists,12 Weeks,January - June 2023
+noc24-hs61,Philosophical Foundations Of Social Research,8 Weeks,January - June 2023
+noc24-hs62,Phonetics And Phonology: A Broad Overview,8 Weeks,January - June 2023
+noc24-hs63,Psychiatry - An Overview and How the Brain Creates Mind,8 Weeks,January - June 2023
+noc24-hs64,Psychology of Emotion: Theory and Applications,12 Weeks,January - June 2023
+noc24-hs65,"Psychology Of Stress, Health And Well-Being",12 Weeks,January - June 2023
+noc24-hs66,Sociological Perspectives On Modernity,12 Weeks,January - June 2023
+noc24-hs67,The Nineteenth - Century English Novel,12 Weeks,January - June 2023
+noc24-hs68,Trauma and Literature,12 Weeks,January - June 2023
+noc24-hs69,Twentieth Century Fiction,12 Weeks,January - June 2023
+noc24-hs70,United Nations Sustainable Development Goals (UN SDGs),12 Weeks,January - June 2023
+noc24-hs71,समास samāsa in Pāṇinian grammar- I,12 Weeks,January - June 2023
+noc24-hs72,Literary Theory and Literary Criticism,8 Weeks,January - June 2023
+noc24-hs73,English Language for Competitive Exams,12 Weeks,January - June 2023
+noc24-hs74,Learning English in Hindi,8 Weeks,January - June 2023
+noc24-hs75,Philosophy and Critical Thinking,12 weeks,January - June 2023
+noc24-hs77,"Energy Resources, Economics, and Sustainability",8 Weeks,January - June 2023
+noc24-hs78,Psychology Of Bilingualism And Multilingualism,8 Weeks,January - June 2023
+noc24-hs79,Cognitive Ergonomics,4 Weeks,January - June 2023
+noc24-hs80,Sociology and Sanitation: An Introduction,4 Weeks,January - June 2023
+noc24-hs81,Human Movement Science,8 Weeks,January - June 2023
+noc24-hs82,Sports and Performance Nutrition,8 Weeks,January - June 2023
+noc24-hs83,Sports Psychology,8 Weeks,January - June 2023
+noc24-hs84,Strength & Conditioning for the Indian Population,12 weeks,January - June 2023
+noc24-hs85,Essentials of Sports Injury Prevention & Rehabilitation,8 Weeks,January - June 2023
+noc24-hs86,Introduction to Exercise Physiology & Sports Performance,8 Weeks,January - June 2023
+noc24-hs87,"Fundamentals of Sports Training, Load Management and recovery",8 Weeks,January - June 2023
+noc24-hs88,Forensic Linguistics,4 Weeks,January - June 2023
+noc24-lw01,"Advanced Contracts, Tendering and Public Procurement",12 Weeks,January - June 2023
+noc24-lw02,IP Management & Technology Transfer,8 Weeks,January - June 2023
+noc24-lw03,International Trade Law,8 Weeks,January - June 2023
+noc24-lw04,Centre-State Relations in India,8 Weeks,January - June 2023
+noc24-lw05,Constitution Law and Public Administration in India,12 Weeks,January - June 2023
+noc24-ma01,Advanced Computational Techniques,4 Weeks,January - June 2023
+noc24-ma02,Advanced Course on Partial Differential Equations - II,8 Weeks,January - June 2023
+noc24-ma03,Advanced Engineering Mathematics,12 Weeks,January - June 2023
+noc24-ma04,Advanced Linear Algebra,12 Weeks,January - June 2023
+noc24-ma05,Advanced Probability Theory,12 Weeks,January - June 2023
+noc24-ma06,Algebra - II,12 Weeks,January - June 2023
+noc24-ma07,Algebraic Combinatorics,12 Weeks,January - June 2023
+noc24-ma08,An Introduction to Hyperbolic Geometry,12 Weeks,January - June 2023
+noc24-ma09,An introduction to Point-Set-Topology Part-I,12 Weeks,January - June 2023
+noc24-ma10,An invitation to Topology,12 Weeks,January - June 2023
+noc24-ma11,Applied Linear Algebra in AI and ML,12 Weeks,January - June 2023
+noc24-ma12,Basic Calculus - 1,12 Weeks,January - June 2023
+noc24-ma13,Basic Linear Algebra,8 Weeks,January - June 2023
+noc24-ma14,Basic Real Analysis,12 Weeks,January - June 2023
+noc24-ma15,Computational Mathematics with SageMath,12 Weeks,January - June 2023
+noc24-ma16,Dynamical System and Control,12 Weeks,January - June 2023
+noc24-ma17,Engineering Mathematics II,12 Weeks,January - June 2023
+noc24-ma18,Essentials Of Data Science With R Software - 1: Probability And Statistical Inference,12 Weeks,January - June 2023
+noc24-ma19,Essentials Of Data Science With R Software - 2: Sampling Theory And Linear Regression Analysis,12 Weeks,January - June 2023
+noc24-ma20,First Course on Partial Differential Equations - I,8 Weeks,January - June 2023
+noc24-ma21,Fourier Analysis and its applications,12 Weeks,January - June 2023
+noc24-ma22,Functional Analysis,12 Weeks,January - June 2023
+noc24-ma23,Graph Theory,8 Weeks,January - June 2023
+noc24-ma24,Introduction to Algebraic Geometry and Commutative Algebra,12 Weeks,January - June 2023
+noc24-ma25,Introduction to Galois Theory,8 Weeks,January - June 2023
+noc24-ma26,Introduction to Group Theory,12 Weeks,January - June 2023
+noc24-ma27,Introduction to Lie algebras,12 Weeks,January - June 2023
+noc24-ma28,Introduction To Queueing Theory,12 Weeks,January - June 2023
+noc24-ma29,Introduction To Rings And Fields,8 Weeks,January - June 2023
+noc24-ma30,Introduction to Statistics,12 Weeks,January - June 2023
+noc24-ma31,Linear Algebra,12 Weeks,January - June 2023
+noc24-ma32,Mathematical Modelling: Analysis and Applications,4 Weeks,January - June 2023
+noc24-ma33,Multivariable Calculus,8 Weeks,January - June 2023
+noc24-ma34,Numerical Analysis,12 Weeks,January - June 2023
+noc24-ma35,Numerical Linear Algebra,12 Weeks,January - June 2023
+noc24-ma36,Numerical Methods: Finite difference approach,4 Weeks,January - June 2023
+noc24-ma37,Ordinary and Partial Differential Equations and Applications,12 Weeks,January - June 2023
+noc24-ma38,Probabilistic Methods in PDE,12 Weeks,January - June 2023
+noc24-ma39,Probability And Statistics,12 Weeks,January - June 2023
+noc24-ma40,Probability –I with Examples Using R,12 Weeks,January - June 2023
+noc24-ma41,Scientific Computing using Matlab,12 Weeks,January - June 2023
+noc24-ma42,Set Theory and Mathematical Logic,12 Weeks,January - June 2023
+noc24-ma43,Statistical Inference,8 Weeks,January - June 2023
+noc24-ma44,Numerical Linear Algebra and Application,12 weeks,January - June 2023
+noc24-me01,Engineering Thermodynamics in Hindi,12 Weeks,January - June 2023
+noc24-me02,Engineering Mechanics - Statics and Dynamics,8 Weeks,January - June 2023
+noc24-me03,Applied Thermodynamics,12 weeks,January - June 2023
+noc24-me04,Experimental Stress Analysis,12 Weeks,January - June 2023
+noc24-me05,Acoustic Materials And Metamaterials,8 Weeks,January - June 2023
+noc24-me06,Automatic Control,8 Weeks,January - June 2023
+noc24-me07,Convective Heat Transfer,4 Weeks,January - June 2023
+noc24-me08,Failure Analysis And Prevention,8 Weeks,January - June 2023
+noc24-me09,Financial Mathematics,12 Weeks,January - June 2023
+noc24-me10,Inspection And Quality Control In Manufacturing,4 Weeks,January - June 2023
+noc24-me11,Manufacturing Guidelines For Product Design,8 Weeks,January - June 2023
+noc24-me12,Mechanical Measurement Systems,8 Weeks,January - June 2023
+noc24-me13,Mechatronics,8 Weeks,January - June 2023
+noc24-me14,Modelling And Simulation Of Dynamic Systems,8 Weeks,January - June 2023
+noc24-me15,Operations Management,12 Weeks,January - June 2023
+noc24-me16,Principles Of Casting Technology,8 Weeks,January - June 2023
+noc24-me17,Principles Of Industrial Engineering,12 Weeks,January - June 2023
+noc24-me18,Robotics and Control : Theory and Practice,8 Weeks,January - June 2023
+noc24-me19,Steam And Gas Power Systems,8 Weeks,January - June 2023
+noc24-me20,Surface Engineering Of Nanomaterials,8 Weeks,January - June 2023
+noc24-me21,Two Phase Flow And Heat Transfer,4 Weeks,January - June 2023
+noc24-me22,Introduction to Soft Matter,8 Weeks,January - June 2023
+noc24-me23,Robotics: Basics and Selected Advanced Concepts,12 Weeks,January - June 2023
+noc24-me24,Advanced Robotics,12 Weeks,January - June 2023
+noc24-me25,Basics of Finite Element Analysis - II,8 Weeks,January - June 2023
+noc24-me26,Computational Fluid Dynamics For Incompressible Flows,12 Weeks,January - June 2023
+noc24-me27,Computer Integrated Manufacturing,12 Weeks,January - June 2023
+noc24-me28,Design Practice,8 Weeks,January - June 2023
+noc24-me29,Dynamics and Control of Mechanical Systems,12 Weeks,January - June 2023
+noc24-me30,Evolutionary Computation For Single And Multi-Objective Optimization,8 Weeks,January - June 2023
+noc24-me31,Explosions and Safety,12 Weeks,January - June 2023
+noc24-me32,Finite Element Modeling Of Welding Processes,12 Weeks,January - June 2023
+noc24-me33,Fundamental Of Welding Science And Technology,8 Weeks,January - June 2023
+noc24-me34,Fundamentals of Combustion,12 Weeks,January - June 2023
+noc24-me35,Fundamentals of combustion for propulsion,8 Weeks,January - June 2023
+noc24-me36,Fundamentals Of Compressible Flow,12 Weeks,January - June 2023
+noc24-me37,Heat Transfer and Combustion in Multiphase Systems,8 Weeks,January - June 2023
+noc24-me38,IC Engines And Gas Turbines,12 Weeks,January - June 2023
+noc24-me39,Introduction to Abrasive Machining and Finishing Processes,8 Weeks,January - June 2023
+noc24-me40,Introduction To Fluid Mechanics,12 Weeks,January - June 2023
+noc24-me41,Introduction to Machining and Machining Fluids,8 Weeks,January - June 2023
+noc24-me42,Introduction To Mechanical Micro Machining,12 Weeks,January - June 2023
+noc24-me43,Introduction To Uncertainty Analysis And Experimentation,8 Weeks,January - June 2023
+noc24-me44,Kinematics Of Mechanisms And Machines,8 Weeks,January - June 2023
+noc24-me45,Machinery Fault Diagnosis And Signal Processing,12 Weeks,January - June 2023
+noc24-me46,Machining Science,4 Weeks,January - June 2023
+noc24-me47,Manufacturing Automation,4 weeks,January - June 2023
+noc24-me48,Manufacturing Process Technology I & II,12 weeks,January - June 2023
+noc24-me49,Mechanics Of Fiber Reinforced Polymer Composite Structures,12 Weeks,January - June 2023
+noc24-me50,Mechanics Of Machining,8 Weeks,January - June 2023
+noc24-me51,Mechanics of Sheet Metal Forming,8 Weeks,January - June 2023
+noc24-me52,Nature and Properties of Materials,8 Weeks,January - June 2023
+noc24-me53,Noise Management & Control,12 Weeks,January - June 2023
+noc24-me54,Nonlinear Vibration,12 Weeks,January - June 2023
+noc24-me55,Oil Hydraulics and Pneumatics,12 Weeks,January - June 2023
+noc24-me56,Optimization from fundamentals,12 Weeks,January - June 2023
+noc24-me57,Power Plant System Engineering,12 Weeks,January - June 2023
+noc24-me58,Product Design and Manufacturing,12 Weeks,January - June 2023
+noc24-me59,Product Engineering and Design Thinking,8 Weeks,January - June 2023
+noc24-me60,Theory Of Composite Shells,8 Weeks,January - June 2023
+noc24-me61,Theory of Rectangular Plates-Part1,4 Weeks,January - June 2023
+noc24-me62,Thermal Engineering: Basic and Applied,12 Weeks,January - June 2023
+noc24-me63,Thermodynamics,12 Weeks,January - June 2023
+noc24-me64,Turbulent Combustion: Theory and Modelling,12 weeks,January - June 2023
+noc24-me65,Two-Phase Flow With Phase Change In Conventional And Miniature Channels,4 Weeks,January - June 2023
+noc24-me66,Viscous Fluid Flow,12 Weeks,January - June 2023
+noc24-me67,Wheeled Mobile Robots,8 Weeks,January - June 2023
+noc24-me68,Cryogenic Hydrogen Technology,8 Weeks,January - June 2023
+noc24-me69,Industrial Hydraulics and Automation,12 weeks,January - June 2023
+noc24-me70,Ideal fluid flows using complex analysis,4 Weeks,January - June 2023
+noc24-me71,Design of Mechanical Transmission Systems,12 Weeks,January - June 2023
+noc24-me72,Advanced Machining Processes,12 Weeks,January - June 2023
+noc24-me74,Introduction to Solidification Processing,8 Weeks,January - June 2023
+noc24-me75,Data-Enabled Tribological Engineering: From Experiments to Predictive Models,12 weeks,January - June 2023
+noc24-me76,Nonlinear Control Design,12 Weeks,January - June 2023
+noc24-me77,Refrigeration And Air-Conditioning,8 Weeks,January - June 2023
+noc24-me78,Strength Of Materials - IITM,12 Weeks,January - June 2023
+noc24-mg01,Project Management,8 Weeks,January - June 2023
+noc24-mg02,Infrastructure Economics,8 Weeks,January - June 2023
+noc24-mg03,Systems Engineering: Theory & Practice,8 Weeks,January - June 2023
+noc24-mg04,Advances in Strategic Human Resource Management (HRM),4 Weeks,January - June 2023
+noc24-mg05,AI in Marketing,12 Weeks,January - June 2023
+noc24-mg06,Artificial Intelligence (AI) for Investments,12 Weeks,January - June 2023
+noc24-mg07,Behavioral And Personal Finance,8 Weeks,January - June 2023
+noc24-mg08,Business analytics and data mining Modeling using R,12 Weeks,January - June 2023
+noc24-mg09,Business Analytics For Management Decision,12 Weeks,January - June 2023
+noc24-mg10,Business Development: From Start to Scale,12 Weeks,January - June 2023
+noc24-mg11,Business Law for Managers,8 Weeks,January - June 2023
+noc24-mg12,Business Statistics,12 Weeks,January - June 2023
+noc24-mg13,Consumer Behaviour,8 Weeks,January - June 2023
+noc24-mg14,Data Analysis and Decision Making - I,12 Weeks,January - June 2023
+noc24-mg15,Design Thinking - A Primer,4 Weeks,January - June 2023
+noc24-mg16,E-Business,12 Weeks,January - June 2023
+noc24-mg17,Ethics In Engineering Practice,8 Weeks,January - June 2023
+noc24-mg18,Financial accounting - IITMandi,12 Weeks,January - June 2023
+noc24-mg19,Financial Derivatives & Risk Management,12 Weeks,January - June 2023
+noc24-mg20,Financial Institutions And Markets,12 Weeks,January - June 2023
+noc24-mg21,Financial Management For Managers,12 Weeks,January - June 2023
+noc24-mg22,Financial Statement Analysis and Reporting,12 Weeks,January - June 2023
+noc24-mg23,Foundation Course In Managerial Economics,8 Weeks,January - June 2023
+noc24-mg24,Global Marketing Management,12 Weeks,January - June 2023
+noc24-mg25,Innovation in Marketing and Marketing of Innovation,12 Weeks,January - June 2023
+noc24-mg26,Integrated Marketing Communication,12 Weeks,January - June 2023
+noc24-mg27,Integrated Marketing Management,8 Weeks,January - June 2023
+noc24-mg28,International Business,12 Weeks,January - June 2023
+noc24-mg29,International Marketing,8 Weeks,January - June 2023
+noc24-mg30,Introduction to Operations Research,8 Weeks,January - June 2023
+noc24-mg31,Introduction to probability and Statistics,4 Weeks,January - June 2023
+noc24-mg32,Introduction to Stochastic Processes,12 Weeks,January - June 2023
+noc24-mg33,Introduction to System Dynamics Modeling,8 Weeks,January - June 2023
+noc24-mg34,Investment Management,8 Weeks,January - June 2023
+noc24-mg35,Leadership and Team Effectiveness,12 Weeks,January - June 2023
+noc24-mg36,Leadership for India Inc: Practical Concepts and Constructs,12 Weeks,January - June 2023
+noc24-mg37,Management of Field Sales,4 weeks,January - June 2023
+noc24-mg38,Managing Change In Organizations,8 Weeks,January - June 2023
+noc24-mg39,"Mergers, Acquisitions and Corporate Restructuring",8 Weeks,January - June 2023
+noc24-mg40,Marketing Analytics,12 Weeks,January - June 2023
+noc24-mg41,Marketing Management - II,8 Weeks,January - June 2023
+noc24-mg42,Marketing Research and Analysis-II,12 Weeks,January - June 2023
+noc24-mg43,MCDM Techniques Using R,4 Weeks,January - June 2023
+noc24-mg44,Modelling And Analytics For Supply Chain Management,12 Weeks,January - June 2023
+noc24-mg45,Organizational Behaviour: Individual Dynamics in Organization,12 Weeks,January - June 2023
+noc24-mg46,Organizational Design Change and Transformation,12 Weeks,January - June 2023
+noc24-mg47,Principles of Management,12 Weeks,January - June 2023
+noc24-mg48,Production and Operation Management,12 Weeks,January - June 2023
+noc24-mg49,Quality Control and Improvement with MINITAB,8 Weeks,January - June 2023
+noc24-mg50,Quality Design And Control,12 Weeks,January - June 2023
+noc24-mg51,Retail Management,8 Weeks,January - June 2023
+noc24-mg52,Safety and Risk Analytics,12 Weeks,January - June 2023
+noc24-mg53,Sales And Distribution Management,8 Weeks,January - June 2023
+noc24-mg54,Simulation of Business Systems: An Applied Approach,8 Weeks,January - June 2023
+noc24-mg55,Six Sigma,12 Weeks,January - June 2023
+noc24-mg56,Strategic Services Marketing,12 Weeks,January - June 2023
+noc24-mg57,Strategic Sourcing,12 Weeks,January - June 2023
+noc24-mg58,Supply Chain Analytics,8 Weeks,January - June 2023
+noc24-mg59,Supply Chain Digitization,12 Weeks,January - June 2023
+noc24-mg60,Talent Acquisition and Management,12 Weeks,January - June 2023
+noc24-mg61,Technology Forecasting for strategic decision making - An Introduction,4 Weeks,January - June 2023
+noc24-mg62,Management of New Products and Services,4 weeks,January - June 2023
+noc24-mg63,Yoga and Positive Psychology for Managing Career and Life,8 Weeks,January - June 2023
+noc24-mg64,Management of Inventory Systems,12 Weeks,January - June 2023
+noc24-mg65,Advanced Financial Instruments for Sustainable Business and Decentralized Markets,12 Weeks,January - June 2023
+noc24-mg66,Business Forecasting,8 Weeks,January - June 2023
+noc24-mg67,"Business Fundamentals for Entrepreneurs
+(Part 2: External Operation)",4 weeks,January - June 2023
+noc24-mg68,Multivariate Procedures with R,12 Weeks,January - June 2023
+noc24-mm01,Corrosion Protection Methods,8 Weeks,January - June 2023
+noc24-mm02,Transport Phenomena in Materials,12 Weeks,January - June 2023
+noc24-mm03,Introduction To Crystal Elasticity And Crystal Plasticity,8 Weeks,January - June 2023
+noc24-mm04,Defects in Crystalline Solids (Part-II),4 weeks,January - June 2023
+noc24-mm05,"Solar Photovoltaics: Principles, Technologies & Materials",8 Weeks,January - June 2023
+noc24-mm06,Aqueous Corrosion and Its Control,12 Weeks,January - June 2023
+noc24-mm07,Carbon Materials and Manufacturing,12 Weeks,January - June 2023
+noc24-mm08,Cathodic Protection Engineering,4 Weeks,January - June 2023
+noc24-mm09,"Dealing with materials data : collection, analysis and interpretation",12 Weeks,January - June 2023
+noc24-mm10,Fundamentals Of Electronic Materials And Devices,8 Weeks,January - June 2023
+noc24-mm11,Material Characterization,12 Weeks,January - June 2023
+noc24-mm12,Materials Science and Engineering,8 Weeks,January - June 2023
+noc24-mm13,Steel Quality: Role of Secondary Refining & Continuous Casting,12 Weeks,January - June 2023
+noc24-mm14,Theory and Practice of Non Destructive Testing,8 Weeks,January - June 2023
+noc24-mm15,Welding Processes,12 Weeks,January - June 2023
+noc24-mm16,Fundamentals of Material Processing - Part 2,8 Weeks,January - June 2023
+noc24-mm17,Diffusion in Multicomponent Solids,12 Weeks,January - June 2023
+noc24-mm18,Properties of Materials (Nature and Properties of Materials : III),8 Weeks,January - June 2023
+noc24-mm19,Principles of Extractive Metallurgy,12 weeks,January - June 2023
+noc24-mm20,Mechanical Behaviour of Materials (Part – I),12 Weeks,January - June 2023
+noc24-mm21,Surface Engineering For Corrosion And Wear Resistance Application,12 weeks,January - June 2023
+noc24-mm22,Drilling And Blasting Technology,12 Weeks,January - June 2023
+noc24-mm23,Mine Automation and Data Analytics,12 weeks,January - June 2023
+noc24-mm24,"Crystals, Symmetry and Tensors",12 Weeks,January - June 2023
+noc24-oe01,Advanced design of steel structures,12 Weeks,January - June 2023
+noc24-oe02,Offshore Structures Under Special Environmental Loads Including Fire Resistance,12 Weeks,January - June 2023
+noc24-oe03,Surface Facilities for Oil and Gas Handling,12 Weeks,January - June 2023
+noc24-ph0123,Mathematical Methods in Physics 1,8 Weeks,January - June 2023
+noc24-ph02,A Brief Course On Superconductivity,4 Weeks,January - June 2023
+noc24-ph03,Advanced Condensed Matter Physics,8 Weeks,January - June 2023
+noc24-ph04,Atomic And Molecular Physics,12 Weeks,January - June 2023
+noc24-ph05,Electronic Theory Of Solids,12 Weeks,January - June 2023
+noc24-ph06,Experimental Physics - II,12 Weeks,January - June 2023
+noc24-ph07,Fluid Dynamics for Astrophysics,12 Weeks,January - June 2023
+noc24-ph08,Group Theory methods in Physics,12 Weeks,January - June 2023
+noc24-ph09,Introduction to Atmospheric and Space Sciences,12 weeks,January - June 2023
+noc24-ph10,Introduction To Statistical Mechanics,8 Weeks,January - June 2023
+noc24-ph11,Nuclear Astrophysics,8 Weeks,January - June 2023
+noc24-ph12,Physics of Biological Systems,12 Weeks,January - June 2023
+noc24-ph13,Physics through Computational Thinking,8 Weeks,January - June 2023
+noc24-ph14,"Quantum Entanglement: Fundamentals, measures and applications",4 Weeks,January - June 2023
+noc24-ph15,Quantum Mechanics I,12 Weeks,January - June 2023
+noc24-ph16,Quantum Transport,12 Weeks,January - June 2023
+noc24-ph17,Thermal Physics,12 Weeks,January - June 2023
+noc24-ph18,Topology and Condensed Matter Physics,8 Weeks,January - June 2023
+noc24-ph19,"Tapestry of Field theory: Classical & Quantum, Equilibrium & Nonequilibrium Perspectives",12 Weeks,January - June 2023
+noc24-ph20,Plasma Physics and Applications,12 Weeks,January - June 2023
+noc24-ph21,Coherence and Quantum Entanglement,12 Weeks,January - June 2023
+noc24-ph22,Advanced NMR Techniques in Solution and Solid-State,12 Weeks,January - June 2023
+noc24-ph23,Introduction to Quantum Field Theory (Theory of Scalar Fields) - Part 2,12 Weeks,January - June 2023
+noc24-ph24,Fundamentals of Attosecond Science and Technology (FAST),12 Weeks,January - June 2023
+noc24-te01,Advanced Textile Printing Technology,8 Weeks,January - June 2023
+noc24-te02,Evaluation of Textiles Materials,12 Weeks,January - June 2023
+noc24-te03,Testing of Functional and Technical Textiles,8 Weeks,January - June 2023
+noc24-te04,Textile Product Design and Development,12 Weeks,January - June 2023
+noc24-te05,Textured Yarn Technology,12 Weeks,January - June 2023
+noc24-te06,Theory of Yarn Structure,12 Weeks,January - June 2023
+noc24-te07,New Spinning Technologies,12 Weeks,January - June 2023
+noc24-te08,New Spinning Technologies,13 Weeks,January - June 2024
+noc24-te09,New Spinning Technologies,14 Weeks,January - June 2025
+noc24-te10,New Spinning Technologies,15 Weeks,January - June 2026
+noc24-te11,New Spinning Technologies,16 Weeks,January - June 2027
+noc24-te12,New Spinning Technologies,17 Weeks,January - June 2028
+noc24-te13,New Spinning Technologies,18 Weeks,January - June 2029
+noc24-te14,New Spinning Technologies,19 Weeks,January - June 2030
+noc24-te15,New Spinning Technologies,20 Weeks,January - June 2031
+noc24-te16,New Spinning Technologies,21 Weeks,January - June 2032
+noc24-te17,New Spinning Technologies,22 Weeks,January - June 2033
+noc24-te18,New Spinning Technologies,23 Weeks,January - June 2034
+noc24-te19,New Spinning Technologies,24 Weeks,January - June 2035
+noc24-te20,New Spinning Technologies,25 Weeks,January - June 2036
+noc24-te21,New Spinning Technologies,26 Weeks,January - June 2037
+noc24-te22,New Spinning Technologies,27 Weeks,January - June 2038
+noc24-te23,New Spinning Technologies,28 Weeks,January - June 2039
+noc24-te24,New Spinning Technologies,29 Weeks,January - June 2040
+noc24-te25,New Spinning Technologies,30 Weeks,January - June 2041
+noc24-te26,New Spinning Technologies,31 Weeks,January - June 2042
+noc24-te27,New Spinning Technologies,32 Weeks,January - June 2043
+noc24-te28,New Spinning Technologies,33 Weeks,January - June 2044
+noc24-te29,New Spinning Technologies,34 Weeks,January - June 2045
+noc24-te30,New Spinning Technologies,35 Weeks,January - June 2046
+noc24-te31,New Spinning Technologies,36 Weeks,January - June 2047
+noc24-te32,New Spinning Technologies,37 Weeks,January - June 2048
+noc24-te33,New Spinning Technologies,38 Weeks,January - June 2049
+noc24-te34,New Spinning Technologies,39 Weeks,January - June 2050
+noc24-te35,New Spinning Technologies,40 Weeks,January - June 2051
+noc24-te36,New Spinning Technologies,41 Weeks,January - June 2052
+noc24-te37,New Spinning Technologies,42 Weeks,January - June 2053
+noc24-te38,New Spinning Technologies,43 Weeks,January - June 2054
+noc24-te39,New Spinning Technologies,44 Weeks,January - June 2055
+noc24-te40,New Spinning Technologies,45 Weeks,January - June 2056
+noc24-te41,New Spinning Technologies,46 Weeks,January - June 2057
+noc24-te42,New Spinning Technologies,47 Weeks,January - June 2058
+noc24-te43,New Spinning Technologies,48 Weeks,January - June 2059
+noc24-te44,New Spinning Technologies,49 Weeks,January - June 2060
+noc24-te45,New Spinning Technologies,50 Weeks,January - June 2061
+noc24-te46,New Spinning Technologies,51 Weeks,January - June 2062
+noc24-te47,New Spinning Technologies,52 Weeks,January - June 2063
+noc24-te48,New Spinning Technologies,53 Weeks,January - June 2064
+noc24-te49,New Spinning Technologies,54 Weeks,January - June 2065
+noc24-te50,New Spinning Technologies,55 Weeks,January - June 2066
+noc24-te51,New Spinning Technologies,56 Weeks,January - June 2067
+noc24-te52,New Spinning Technologies,57 Weeks,January - June 2068
+noc24-te53,New Spinning Technologies,58 Weeks,January - June 2069
+noc24-te54,New Spinning Technologies,59 Weeks,January - June 2070
+noc24-te55,New Spinning Technologies,60 Weeks,January - June 2071
+noc24-te56,New Spinning Technologies,61 Weeks,January - June 2072
+noc24-te57,New Spinning Technologies,62 Weeks,January - June 2073
+noc24-te58,New Spinning Technologies,63 Weeks,January - June 2074
+noc24-te59,New Spinning Technologies,64 Weeks,January - June 2075
+noc24-te60,New Spinning Technologies,65 Weeks,January - June 2076
+noc24-te61,New Spinning Technologies,66 Weeks,January - June 2077
+noc24-te62,New Spinning Technologies,67 Weeks,January - June 2078
+noc24-te63,New Spinning Technologies,68 Weeks,January - June 2079
+noc24-te64,New Spinning Technologies,69 Weeks,January - June 2080
+noc24-te65,New Spinning Technologies,70 Weeks,January - June 2081
+noc24-te66,New Spinning Technologies,71 Weeks,January - June 2082
+noc24-te67,New Spinning Technologies,72 Weeks,January - June 2083
+noc24-te68,New Spinning Technologies,73 Weeks,January - June 2084
+noc24-te69,New Spinning Technologies,74 Weeks,January - June 2085
+noc24-te70,New Spinning Technologies,75 Weeks,January - June 2086
+noc24-te71,New Spinning Technologies,76 Weeks,January - June 2087
+noc24-te72,New Spinning Technologies,77 Weeks,January - June 2088
+noc24-te73,New Spinning Technologies,78 Weeks,January - June 2089
+noc24-te74,New Spinning Technologies,79 Weeks,January - June 2090
+noc24-te75,New Spinning Technologies,80 Weeks,January - June 2091
+noc24-te76,New Spinning Technologies,81 Weeks,January - June 2092
+noc24-te77,New Spinning Technologies,82 Weeks,January - June 2093
+noc24-te78,New Spinning Technologies,83 Weeks,January - June 2094
+noc24-te79,New Spinning Technologies,84 Weeks,January - June 2095
+noc24-te80,New Spinning Technologies,85 Weeks,January - June 2096
+noc24-te81,New Spinning Technologies,86 Weeks,January - June 2097
+noc24-te82,New Spinning Technologies,87 Weeks,January - June 2098
+noc24-te83,New Spinning Technologies,88 Weeks,January - June 2099
+noc24-te84,New Spinning Technologies,89 Weeks,January - June 2100
+noc24-te85,New Spinning Technologies,90 Weeks,January - June 2101
+noc24-te86,New Spinning Technologies,91 Weeks,January - June 2102
+noc24-te87,New Spinning Technologies,92 Weeks,January - June 2103
+noc24-te88,New Spinning Technologies,93 Weeks,January - June 2104
+noc24-te89,New Spinning Technologies,94 Weeks,January - June 2105
+noc24-te90,New Spinning Technologies,95 Weeks,January - June 2106
+noc24-te91,New Spinning Technologies,96 Weeks,January - June 2107
+noc24-te92,New Spinning Technologies,97 Weeks,January - June 2108
+noc24-te93,New Spinning Technologies,98 Weeks,January - June 2109
+noc24-te94,New Spinning Technologies,99 Weeks,January - June 2110
+noc24-te95,New Spinning Technologies,100 Weeks,January - June 2111
+noc24-te96,New Spinning Technologies,101 Weeks,January - June 2112
+noc24-te97,New Spinning Technologies,102 Weeks,January - June 2113
+noc24-te98,New Spinning Technologies,103 Weeks,January - June 2114
+noc24-te99,New Spinning Technologies,104 Weeks,January - June 2115
+noc24-te100,New Spinning Technologies,105 Weeks,January - June 2116
+noc24-te101,New Spinning Technologies,106 Weeks,January - June 2117
+noc24-te102,New Spinning Technologies,107 Weeks,January - June 2118
+noc24-te103,New Spinning Technologies,108 Weeks,January - June 2119
+noc24-te104,New Spinning Technologies,109 Weeks,January - June 2120
+noc24-te105,New Spinning Technologies,110 Weeks,January - June 2121
+noc24-te106,New Spinning Technologies,111 Weeks,January - June 2122
+noc24-te107,New Spinning Technologies,112 Weeks,January - June 2123
+noc24-te108,New Spinning Technologies,113 Weeks,January - June 2124
+noc24-te109,New Spinning Technologies,114 Weeks,January - June 2125
+noc24-te110,New Spinning Technologies,115 Weeks,January - June 2126
+noc24-te111,New Spinning Technologies,116 Weeks,January - June 2127
+noc24-te112,New Spinning Technologies,117 Weeks,January - June 2128
+noc24-te113,New Spinning Technologies,118 Weeks,January - June 2129
+noc24-te114,New Spinning Technologies,119 Weeks,January - June 2130
+noc24-te115,New Spinning Technologies,120 Weeks,January - June 2131
+noc24-te116,New Spinning Technologies,121 Weeks,January - June 2132
+noc24-te117,New Spinning Technologies,122 Weeks,January - June 2133
+noc24-te118,New Spinning Technologies,123 Weeks,January - June 2134
+noc24-te119,New Spinning Technologies,124 Weeks,January - June 2135
+noc24-te120,New Spinning Technologies,125 Weeks,January - June 2136
+noc24-te121,New Spinning Technologies,126 Weeks,January - June 2137
+noc24-te122,New Spinning Technologies,127 Weeks,January - June 2138
+noc24-te123,New Spinning Technologies,128 Weeks,January - June 2139
+noc24-te124,New Spinning Technologies,129 Weeks,January - June 2140
+noc24-te125,New Spinning Technologies,130 Weeks,January - June 2141
+noc24-te126,New Spinning Technologies,131 Weeks,January - June 2142
+noc24-te127,New Spinning Technologies,132 Weeks,January - June 2143
+noc24-te128,New Spinning Technologies,133 Weeks,January - June 2144
+noc24-te129,New Spinning Technologies,134 Weeks,January - June 2145
+noc24-te130,New Spinning Technologies,135 Weeks,January - June 2146
+noc24-te131,New Spinning Technologies,136 Weeks,January - June 2147
+noc24-te132,New Spinning Technologies,137 Weeks,January - June 2148
+noc24-te133,New Spinning Technologies,138 Weeks,January - June 2149
+noc24-te134,New Spinning Technologies,139 Weeks,January - June 2150
+noc24-te135,New Spinning Technologies,140 Weeks,January - June 2151
+noc24-te136,New Spinning Technologies,141 Weeks,January - June 2152
+noc24-te137,New Spinning Technologies,142 Weeks,January - June 2153
+noc24-te138,New Spinning Technologies,143 Weeks,January - June 2154
+noc24-te139,New Spinning Technologies,144 Weeks,January - June 2155
+noc24-te140,New Spinning Technologies,145 Weeks,January - June 2156
+noc24-te141,New Spinning Technologies,146 Weeks,January - June 2157
+noc24-te142,New Spinning Technologies,147 Weeks,January - June 2158
+noc24-te143,New Spinning Technologies,148 Weeks,January - June 2159

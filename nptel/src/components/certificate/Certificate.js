@@ -312,7 +312,7 @@ const Certificate = () => {
         const res = await axios.get(`${url}/courseCode/${filteredStudent?.value}`, { headers });
         setCourseCode(res.data?.courseCode);
         setCourseName(res.data?.courseName);
-        setCourseWeek(res.data?.week);
+        setCourseWeek(res.data?.courseWeek);
         setCourseDuration(res.data?.duration);
       } catch (err) {
         console.log(err);

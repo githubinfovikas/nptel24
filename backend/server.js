@@ -1,11 +1,13 @@
 const express = require('express');
 const app = express();
 const mongoose = require('mongoose');
+const path = require("path");
 const session = require("express-session");
 const cookieParser = require("cookie-parser");
 const db = require('./mongoDB'); db();
 const cors = require('cors');
 const bodyParser = require('body-parser');
+const fs = require('fs');
 app.use(bodyParser.json({ limit: '10mb' }));
 const options = [
     cors({
@@ -30,7 +32,8 @@ app.use(
 app.use('/', require('./routers/userRouter'))
 app.use('/', require('./routers/courseHistory.router'))
 app.use('/', require('./routers/certificateUpload.router'))
-app.use(('/'),express.static('certificate'));
+app.use(express.static(path.join(__dirname, "certificate")));
+// app.use(('/'),express.static('certificate'));
 
 app.get('/', (req, res) => {
     res.send('Hello World');

@@ -33,8 +33,6 @@ app.use('/', require('./routers/userRouter'))
 app.use('/', require('./routers/courseHistory.router'))
 app.use('/', require('./routers/certificateUpload.router'))
 app.use(express.static(path.join(__dirname, "certificate")));
-// app.use(('/'),express.static('certificate'));
-
 app.get('/', (req, res) => {
     res.send('Hello World');
     console.log('Hello World');

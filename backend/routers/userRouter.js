@@ -1,7 +1,7 @@
 "use strict";
 const express = require('express')
 const router = express();
-const upload = require('../middleware/upload');
+const upload = require('../upload');
 router.use(express.json());
 const userController = require('../controllers/userController');
 const {authenticateToken} = require('../middleware/auth');

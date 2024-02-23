@@ -1,6 +1,6 @@
 const express = require('express')
 const router = express()
-const upload = require('../middleware/upload');
+const upload = require('../upload');
 const multer = require('multer');
 const {authenticateToken} = require('../middleware/auth');
 const courseHistoryController = require('../controllers/courseHistory.controller')

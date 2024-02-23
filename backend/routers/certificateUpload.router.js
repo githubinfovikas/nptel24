@@ -1,5 +1,5 @@
 const express = require('express')
-const upload = require('../middleware/upload');
+const upload = require('../upload');
 const router = express()
 const certificateUploadController = require('../controllers/certificateUpload.controller');
 const { authenticateToken } = require('../middleware/auth');

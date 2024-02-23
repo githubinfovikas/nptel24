@@ -370,7 +370,7 @@ const Certificate = () => {
         setMoocSemester("");
         setCurrentSemester("");
         setFile("");
-        
+
       }, 2000)
       console.log(res.data);
     } catch (err) {
@@ -389,7 +389,7 @@ const Certificate = () => {
       <ToastContainer />
       <div
 
-        className="bg-gray-200 mt-4 pt-2 shadow-md rounded px-10 mx-auto lg:w-[80%] md:w-1/2 sm:w-full "
+        className="bg-gray-200 mt-4 pt-4 shadow-md rounded px-10 mx-auto lg:w-[80%] md:w-1/2 sm:w-full "
       >
         <div className="grid lg:grid-cols-12 md:grid-cols-12 sm:grid-cols-1 gap-8 mb-4">
           <div className="lg:col-span-3 flex flex-col items-start">
@@ -511,25 +511,25 @@ const Certificate = () => {
               type="file" accept=".pdf" onChange={certificateUpload} />
 
           </div>
-          
-          
+
+
         </div>
 
-        {loading ? (
-          <div className="flex justify-center items-center mt-6 ">
-            <CircularProgress />
-          </div>
-        ) : (
-          <div className="mb-6">
-            <button
-              type="submit"
-              className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline"
-              onClick={handleSubmit}
-            >
-              Submit
-            </button>
-          </div>
-        )}
+          {loading ? (
+            <div className="flex justify-center items-center pb-6 pt-4 ">
+              <CircularProgress />
+            </div>
+          ) : (
+            <div className="pb-6 pt-4">
+              <button
+                type="submit"
+                className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline"
+                onClick={handleSubmit}
+              >
+                Submit
+              </button>
+            </div>
+          )}
       </div>
     </div>
   );

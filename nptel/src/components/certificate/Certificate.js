@@ -372,10 +372,9 @@ const Certificate = () => {
         setFile("");
 
       }, 2000)
-      console.log(res.data);
     } catch (err) {
       setLoading(false);
-      toast.error(err.response.message + "Please try again");
+      toast.error(err.response.data.message);
       console.log(err);
     } finally {
       setLoading(false);

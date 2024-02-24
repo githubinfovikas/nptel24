@@ -32,21 +32,11 @@ const multer = require('multer');
 const fs = require('fs');
 const path = require('path');
 
-const certificateFolderPath = path.join(__dirname, 'certificate');
-
-// Check if the certificate folder exists
-if (!fs.existsSync(certificateFolderPath)) {
-    // If it doesn't exist, create it
-    fs.mkdirSync(certificateFolderPath);
-    console.log('Certificate folder created successfully.');
-} else {
-    console.log('Certificate folder already exists.');
-}
 
 
 const storage = multer.diskStorage({
   destination: function (req, file, cb) {
-    cb(null, certificateFolderPath);
+    cb(null, "./certificate/");
   },
   filename: function (req, file, cb) {
     cb(null, file.originalname);

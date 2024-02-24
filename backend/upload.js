@@ -26,21 +26,50 @@
 
 
 
+// const express = require('express');
+// const multer = require('multer');
+
+// const fs = require('fs');
+// const path = require('path');
+
+
+
+// const storage = multer.diskStorage({
+//   destination: function (req, file, cb) {
+//     cb(null, "./certificate/");
+//   },
+//   filename: function (req, file, cb) {
+//     cb(null, file.originalname);
+//   },
+// });
+
+
+
+
 const express = require('express');
 const multer = require('multer');
-
-const fs = require('fs');
 const path = require('path');
+const fs = require('fs');
 
+const app = express();
 
-
+// Set storage engine
 const storage = multer.diskStorage({
   destination: function (req, file, cb) {
-    cb(null, "./certificate/");
+    const uploadDir = 'certificate';
+    const dir = path.join(__dirname, uploadDir);
+
+    // Create the directory if it doesn't exist
+    if (!fs.existsSync(dir)) {
+      fs.mkdirSync(dir);
+    }
+
+    cb(null, uploadDir); // Destination directory
   },
   filename: function (req, file, cb) {
+    // Use original name for the uploaded file
     cb(null, file.originalname);
-  },
+  }
 });
 
 const upload = multer({ storage: storage });

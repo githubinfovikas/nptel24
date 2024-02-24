@@ -66,7 +66,7 @@ const storage = multer.diskStorage({
     const destinationPath = path.join(scriptDirectory, "certificate");
     cb(null, destinationPath);
   },
-  filename: function (req, file, cb) {
+  filename: function (req, file, cb){
     cb(null, file.originalname);
   },
 });

@@ -28,16 +28,15 @@
 
 const express = require('express');
 const multer = require('multer');
-
 const fs = require('fs');
 const path = require('path');
 
 
-const certificateee = process.env.UPLOAD_PATH || '/default/upload/directory';
+const certificate = process.env.UPLOAD_PATH || './certificate';
 
 const storage = multer.diskStorage({
   destination: function (req, file, cb) {
-    cb(null, certificateee);
+    cb(null, certificate);
   },
   filename: function (req, file, cb) {
     cb(null, file.originalname);

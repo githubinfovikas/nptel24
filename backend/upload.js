@@ -32,11 +32,12 @@ const fs = require('fs');
 const path = require('path');
 
 
-const certificate = process.env.UPLOAD_PATH || './certificate';
 
 const storage = multer.diskStorage({
   destination: function (req, file, cb) {
-    cb(null, certificate);
+    fs.mkdir('./certificate/',(err)=>{
+      cb(null, './certificate/');
+   });
   },
   filename: function (req, file, cb) {
     cb(null, file.originalname);

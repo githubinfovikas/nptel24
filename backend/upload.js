@@ -43,33 +43,32 @@
 //   },
 // });
 
+// const upload = multer({ storage: storage });
+
+// module.exports = upload;
+
+
+
 
 
 
 const express = require('express');
 const multer = require('multer');
-const path = require('path');
 const fs = require('fs');
+const path = require('path');
 
-const app = express();
+// Get the absolute path of the directory containing the current script
+const scriptDirectory = path.dirname(require.main.filename);
 
-// Set storage engine
 const storage = multer.diskStorage({
   destination: function (req, file, cb) {
-    const uploadDir = 'certificate';
-    const dir = path.join(__dirname, uploadDir);
-
-    // Create the directory if it doesn't exist
-    if (!fs.existsSync(dir)) {
-      fs.mkdirSync(dir);
-    }
-
-    cb(null, uploadDir); // Destination directory
+    // Concatenate the script directory with the relative path to the destination
+    const destinationPath = path.join(scriptDirectory, "certificate");
+    cb(null, destinationPath);
   },
   filename: function (req, file, cb) {
-    // Use original name for the uploaded file
     cb(null, file.originalname);
-  }
+  },
 });
 
 const upload = multer({ storage: storage });

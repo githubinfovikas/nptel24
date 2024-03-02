@@ -131,7 +131,7 @@ const Login = () => {
             </div>
             <Link to="forgot/password" className='flex items-end justify-end mb-6 hover:text-blue-600'>Forgot Password?</Link>
             <button
-                className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-20 rounded focus:outline-none focus:shadow-outline"
+                className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 mt-6 px-20 rounded focus:outline-none focus:shadow-outline"
                 type="submit"
             >
                 Submit
@@ -139,7 +139,7 @@ const Login = () => {
 
             <div className='mt-3 '>
                 Don't have an account?
-                <Link to='/signin' className='text-blue-500 ml-2  hover:underline'>Sign In</Link>
+                <Link to='/signin' className='text-blue-500 ml-2  hover:underline'>Register</Link>
             </div>
             <div className="flex justify-center py-4">
                 <img src={mitLogo} alt="MIT photo" className="h-20 md:h-32 lg:h-36" />

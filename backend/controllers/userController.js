@@ -149,6 +149,7 @@ async function upload(req, res) {
                 uniqueEntries.push(row);
             }
         }
+        console.log(uniqueEntries);
         await Data.insertMany(uniqueEntries);
         res.status(200).send('Data uploaded successfully');
     } catch (error) {

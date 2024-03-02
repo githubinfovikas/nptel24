@@ -1,62 +1,3 @@
-// import React, { useState } from 'react';
-// import { Link, useNavigate } from 'react-router-dom';
-// import nptel from '../images/nptel.png';
-// import profile from '../images/proffile photo.png';
-// import { name, userType } from '../components/common';
-
-// const Header = () => {
-//     const [isOpen, setIsOpen] = useState(false);
-//     const navigate = useNavigate();
-
-//     const toggleDropdown = () => {
-//         setIsOpen(!isOpen);
-//     };
-
-//     const logout = () => {
-//         localStorage.clear();
-//         navigate('/');
-//         window.location.reload();
-//     };
-
-//     return (
-//         <div>
-//             <div className='flex  bg-blue-600 fixed h-16 w-full items-center justify-between'>
-//                 <div className="flex justify-center py-8 pl-5">
-//                     <img src={nptel} alt="NPTEL photo" className="h-10" />
-//                 </div>
-//                 <div className='flex flex-col'>
-//                     <div className=' text-white font-semibold'>
-//                         {name()}
-//                     </div>
-//                 </div>
-//                 <div className="flex justify-center py-8 pr-5">
-//                     <img src={profile} alt="NPTEL photo" className="h-10 rounded-full" onClick={toggleDropdown} />
-//                     {isOpen && (
-//                         <div className="dropdown-content absolute right-0 mt-14 text-justify w-48 bg-white rounded-md shadow-lg">
-//                             <Link to="/profile" className="block px-4 py-2 text-gray-800 hover:bg-blue-500 hover:text-white">My Profile</Link>
-//                             {userType() === "0" && (
-//                                 <div>
-//                                     <Link to="/facultyDashboard" className="block px-4 py-2 text-gray-800 hover:bg-blue-500 hover:text-white">Certificate</Link>
-//                                     <Link to="/userData" className="block px-4 py-2 text-gray-800 hover:bg-blue-500 hover:text-white">User Data</Link>
-//                                     <Link to="/course" className="block px-4 py-2 text-gray-800 hover:bg-blue-500 hover:text-white">Course</Link>
-//                                     <Link to="/databaseUpload" className="block px-4 py-2 text-gray-800 hover:bg-blue-500 hover:text-white">Data Upload</Link>
-//                                 </div>
-//                             )}
-//                             <Link to="/" onClick={logout} className="block px-4 py-2 text-gray-800 hover:bg-blue-500 hover:text-white">Log out</Link>
-//                         </div>
-//                     )}
-//                 </div>
-//             </div>
-//         </div>
-
-
-//     );
-// };
-
-// export default Header;
-
-
-
 import React, { useState, useEffect, useRef } from 'react';
 import { Link, useNavigate, useLocation } from 'react-router-dom';
 import nptel from '../images/nptel.png';
@@ -195,9 +136,9 @@ const NavBar = () => {
                     <img src={profile} alt="NPTEL photo" className="h-10 rounded-full cursor-pointer" onClick={() => setProffileOpen(!proffileOpen)} />
                     {proffileOpen && (
                         <div className="dropdown-content absolute right-0 top-full mt-2 text-justify w-48 bg-gray-100 rounded-md shadow-lg">
-                            <Link to="/profile" className="block px-4 py-2 text-gray-800 hover:bg-blue-500 hover:text-white">
+                            {/* <Link to="/profile" className="block px-4 py-2 text-gray-800 hover:bg-blue-500 hover:text-white">
                                 <div className='flex flex-row items-center gap-2'><IoHome size={25} /> <div>My Profile</div></div>
-                            </Link>
+                            </Link> */}
                             <Link to="/" onClick={logout} className="block px-4 py-2 text-gray-800 hover:bg-blue-500 hover:text-white"><div className='flex flex-row items-center gap-2'><RiLogoutBoxRFill size={25} /> <div>Log Out</div></div></Link>
 
                         </div>

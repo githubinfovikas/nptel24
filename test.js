@@ -1,0 +1,1 @@
+npm install @material-ui/core@4.12.4 --force

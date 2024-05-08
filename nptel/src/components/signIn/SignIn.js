@@ -78,7 +78,7 @@ const SignIn = () => {
             <form onSubmit={handleSubmit} className="bg-white shadow-md rounded px-10 mx-auto lg:w-1/3 md:w-1/2 sm:w-full " >
                 <ToastContainer />
                 <div className="flex justify-center py-8">
-                    <img src={nptel} alt="NPTEL photo" className="lg:h-20 md:h-18 h-20" />
+                    <img src={mitLogo} alt="NPTEL photo" className="lg:h-20 md:h-18 h-20" />
                 </div>
                 <div className="mb-4">
 
@@ -196,7 +196,7 @@ const SignIn = () => {
                     <Link to='/' className='text-blue-500 ml-2  hover:underline'>Login</Link>
                 </div>
                 <div className="flex justify-center py-4">
-                    <img src={mitLogo} alt="MIT photo" className="lg:h-20 md:h-18 h-20" />
+                    <img src={nptel} alt="MIT photo" className="lg:h-20 md:h-18 h-20" />
                 </div>
             </form>
         </div>

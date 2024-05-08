@@ -36,5 +36,5 @@ export const headers = {
     Authorization: getToken(),
 };
 
- export const url = "http://localhost:8080"
-// export const url = "https://nptel24.vercel.app"
+//  export const url = "http://localhost:8080"
+export const url = "https://nptel24.vercel.app"

@@ -73,7 +73,7 @@ const Count = () => {
                 </div>
                 <div className='bg-green-500 flex flex-row gap-14 items-center justify-evenly p-4 rounded-lg'>
                     <div className='flex flex-col text-justify '>
-                        <div className='text-white font-semibold text-1xl'>pending </div>
+                        <div className='text-white font-semibold text-1xl'>Pending </div>
                         <div className='text-white font-semibold text-1xl'>Certificates </div>
                     </div>
                     <div className='text-white text-3xl flex items-end'>{pending}</div>

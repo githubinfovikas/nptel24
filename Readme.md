@@ -2,6 +2,7 @@
 
 ## Overview
 This repository is created for testing purposes. It includes sample accounts for admin and faculty roles to facilitate testing and development.
+- **Demo:** https://nptelmit.vercel.app/
 
 ## Testing Accounts
 Below are the credentials for the testing accounts that can be used to access different roles within the application:
